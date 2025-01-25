@@ -1,0 +1,17 @@
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c#project.csproj.AssemblyReference.cache
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.Properties.Resources.resources
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c#project.csproj.GenerateResource.cache
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c#project.csproj.CoreCompileInputs.cache
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\c#project.exe.config
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\c#project.exe
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\c#project.pdb
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\EntityFramework.dll
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\EntityFramework.SqlServer.dll
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\EntityFramework.xml
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\EntityFramework.SqlServer.xml
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c#project.csproj.CopyComplete
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c#project.exe
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c#project.pdb
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.SignUp.resources
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.Login.resources
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.DashBoard.resources

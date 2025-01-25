@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ctrltaskModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="bridge_task_userdata">
+    <Key>
+      <PropertyRef Name="u_id" />
+      <PropertyRef Name="t_id" />
+    </Key>
+    <Property Name="u_id" Type="int" Nullable="false" />
+    <Property Name="t_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="project">
+    <Key>
+      <PropertyRef Name="p_id" />
+    </Key>
+    <Property Name="p_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="p_name" Type="varchar" MaxLength="35" Nullable="false" />
+    <Property Name="number_of_tasks" Type="int" />
+    <Property Name="p_done" Type="int" />
+  </EntityType>
+  <EntityType Name="task">
+    <Key>
+      <PropertyRef Name="t_id" />
+    </Key>
+    <Property Name="t_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="p_id" Type="int" Nullable="false" />
+    <Property Name="t_name" Type="varchar" MaxLength="35" Nullable="false" />
+    <Property Name="content" Type="varchar" MaxLength="250" />
+    <Property Name="date_time_created" Type="datetime" />
+    <Property Name="date_time_finish" Type="datetime" />
+    <Property Name="t_status" Type="int" />
+  </EntityType>
+  <EntityType Name="userdata">
+    <Key>
+      <PropertyRef Name="u_id" />
+    </Key>
+    <Property Name="u_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="u_name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="u_email" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="u_password" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="img" Type="nvarchar(max)" />
+  </EntityType>
+  <Association Name="FK__bridge_tas__t_id__44FF419A">
+    <End Role="task" Type="Self.task" Multiplicity="1" />
+    <End Role="bridge_task_userdata" Type="Self.bridge_task_userdata" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="task">
+        <PropertyRef Name="t_id" />
+      </Principal>
+      <Dependent Role="bridge_task_userdata">
+        <PropertyRef Name="t_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__bridge_tas__u_id__440B1D61">
+    <End Role="userdata" Type="Self.userdata" Multiplicity="1" />
+    <End Role="bridge_task_userdata" Type="Self.bridge_task_userdata" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="userdata">
+        <PropertyRef Name="u_id" />
+      </Principal>
+      <Dependent Role="bridge_task_userdata">
+        <PropertyRef Name="u_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__task__p_id__412EB0B6">
+    <End Role="project" Type="Self.project" Multiplicity="1" />
+    <End Role="task" Type="Self.task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="project">
+        <PropertyRef Name="p_id" />
+      </Principal>
+      <Dependent Role="task">
+        <PropertyRef Name="p_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ctrltaskModelStoreContainer">
+    <EntitySet Name="bridge_task_userdata" EntityType="Self.bridge_task_userdata" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="project" EntityType="Self.project" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="task" EntityType="Self.task" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="userdata" EntityType="Self.userdata" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__bridge_tas__t_id__44FF419A" Association="Self.FK__bridge_tas__t_id__44FF419A">
+      <End Role="task" EntitySet="task" />
+      <End Role="bridge_task_userdata" EntitySet="bridge_task_userdata" />
+    </AssociationSet>
+    <AssociationSet Name="FK__bridge_tas__u_id__440B1D61" Association="Self.FK__bridge_tas__u_id__440B1D61">
+      <End Role="userdata" EntitySet="userdata" />
+      <End Role="bridge_task_userdata" EntitySet="bridge_task_userdata" />
+    </AssociationSet>
+    <AssociationSet Name="FK__task__p_id__412EB0B6" Association="Self.FK__task__p_id__412EB0B6">
+      <End Role="project" EntitySet="project" />
+      <End Role="task" EntitySet="task" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

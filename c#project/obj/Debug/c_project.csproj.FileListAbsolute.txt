@@ -1,0 +1,305 @@
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.csproj.AssemblyReference.cache
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.DashBoard.resources
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.Properties.Resources.resources
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.SignUp.resources
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.csproj.GenerateResource.cache
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.csproj.CoreCompileInputs.cache
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c#project.exe
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c#project.pdb
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\c#project.exe.config
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\c#project.exe
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\EntityFramework.dll
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\EntityFramework.SqlServer.dll
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\EntityFramework.xml
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\EntityFramework.SqlServer.xml
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.csproj.CopyComplete
+D:\CS3 Material\C#\project1\c#project\c#project\bin\Debug\c#project.pdb
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.home.resources
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.Log_in.resources
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.TaskPage.resources
+D:\CS3 Material\C#\project1\c#project\c#project\obj\Debug\c_project.ProjectTask.resources
+D:\c#\c#project\c#project\bin\Debug\c#project.exe.config
+D:\c#\c#project\c#project\bin\Debug\c#project.exe
+D:\c#\c#project\c#project\bin\Debug\c#project.pdb
+D:\c#\c#project\c#project\bin\Debug\EntityFramework.dll
+D:\c#\c#project\c#project\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\c#project\c#project\bin\Debug\EntityFramework.xml
+D:\c#\c#project\c#project\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\c#project\c#project\obj\Debug\c_project.csproj.AssemblyReference.cache
+D:\c#\c#project\c#project\obj\Debug\c_project.DashBoard.resources
+D:\c#\c#project\c#project\obj\Debug\c_project.Log_in.resources
+D:\c#\c#project\c#project\obj\Debug\c_project.home.resources
+D:\c#\c#project\c#project\obj\Debug\c_project.ProjectTask.resources
+D:\c#\c#project\c#project\obj\Debug\c_project.Properties.Resources.resources
+D:\c#\c#project\c#project\obj\Debug\c_project.SignUp.resources
+D:\c#\c#project\c#project\obj\Debug\c_project.TaskPage.resources
+D:\c#\c#project\c#project\obj\Debug\c_project.csproj.GenerateResource.cache
+D:\c#\c#project\c#project\obj\Debug\c_project.csproj.CoreCompileInputs.cache
+D:\c#\c#project\c#project\obj\Debug\c_project.csproj.CopyComplete
+D:\c#\c#project\c#project\obj\Debug\c#project.exe
+D:\c#\c#project\c#project\obj\Debug\c#project.pdb
+D:\c#\c#project\c#project\obj\Debug\c_project.Setting.resources
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\bin\Debug\c#project.exe.config
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\bin\Debug\c#project.exe
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\bin\Debug\c#project.pdb
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\bin\Debug\EntityFramework.dll
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\bin\Debug\EntityFramework.xml
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.AssemblyReference.cache
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c_project.DashBoard.resources
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c_project.Log_in.resources
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c_project.home.resources
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c_project.ProjectTask.resources
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c_project.Properties.Resources.resources
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c_project.Setting.resources
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c_project.SignUp.resources
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c_project.TaskPage.resources
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.GenerateResource.cache
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.CopyComplete
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c#project.exe
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c#project.pdb
+C:\Users\Abdelrahman _gaball\Desktop\c#project-3\c#project\c#project\obj\Debug\c_project.update.resources
+D:\CS3 Material\C#\c#project-3\c#project\c#project\bin\Debug\c#project.exe.config
+D:\CS3 Material\C#\c#project-3\c#project\c#project\bin\Debug\c#project.exe
+D:\CS3 Material\C#\c#project-3\c#project\c#project\bin\Debug\c#project.pdb
+D:\CS3 Material\C#\c#project-3\c#project\c#project\bin\Debug\EntityFramework.dll
+D:\CS3 Material\C#\c#project-3\c#project\c#project\bin\Debug\EntityFramework.SqlServer.dll
+D:\CS3 Material\C#\c#project-3\c#project\c#project\bin\Debug\LiveCharts.dll
+D:\CS3 Material\C#\c#project-3\c#project\c#project\bin\Debug\LiveCharts.Wpf.dll
+D:\CS3 Material\C#\c#project-3\c#project\c#project\bin\Debug\EntityFramework.xml
+D:\CS3 Material\C#\c#project-3\c#project\c#project\bin\Debug\EntityFramework.SqlServer.xml
+D:\CS3 Material\C#\c#project-3\c#project\c#project\bin\Debug\LiveCharts.pdb
+D:\CS3 Material\C#\c#project-3\c#project\c#project\bin\Debug\LiveCharts.xml
+D:\CS3 Material\C#\c#project-3\c#project\c#project\bin\Debug\LiveCharts.Wpf.pdb
+D:\CS3 Material\C#\c#project-3\c#project\c#project\bin\Debug\LiveCharts.Wpf.xml
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.AssemblyReference.cache
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c_project.DashBoard.resources
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c_project.Log_in.resources
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c_project.home.resources
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c_project.ProjectTask.resources
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c_project.Properties.Resources.resources
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c_project.Setting.resources
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c_project.SignUp.resources
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c_project.TaskPage.resources
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c_project.update.resources
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.GenerateResource.cache
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.CoreCompileInputs.cache
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.CopyComplete
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c#project.exe
+D:\CS3 Material\C#\c#project-3\c#project\c#project\obj\Debug\c#project.pdb
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.AssemblyReference.cache
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.DashBoard.resources
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.Log_in.resources
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.home.resources
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.ProjectTask.resources
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.Properties.Resources.resources
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.Setting.resources
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.SignUp.resources
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.TaskPage.resources
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.update.resources
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.GenerateResource.cache
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.CoreCompileInputs.cache
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c#project.exe
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c#project.pdb
+D:\c#\c#project-3\c#project\c#project\bin\Debug\c#project.exe.config
+D:\c#\c#project-3\c#project\c#project\bin\Debug\c#project.exe
+D:\c#\c#project-3\c#project\c#project\bin\Debug\c#project.pdb
+D:\c#\c#project-3\c#project\c#project\bin\Debug\EntityFramework.dll
+D:\c#\c#project-3\c#project\c#project\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\c#project-3\c#project\c#project\bin\Debug\LiveCharts.dll
+D:\c#\c#project-3\c#project\c#project\bin\Debug\LiveCharts.Wpf.dll
+D:\c#\c#project-3\c#project\c#project\bin\Debug\EntityFramework.xml
+D:\c#\c#project-3\c#project\c#project\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\c#project-3\c#project\c#project\bin\Debug\LiveCharts.pdb
+D:\c#\c#project-3\c#project\c#project\bin\Debug\LiveCharts.xml
+D:\c#\c#project-3\c#project\c#project\bin\Debug\LiveCharts.Wpf.pdb
+D:\c#\c#project-3\c#project\c#project\bin\Debug\LiveCharts.Wpf.xml
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.CopyComplete
+D:\c#\c#project-3\c#project\c#project\obj\Debug\c_project.sharedTasks.resources
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.DashBoard.resources
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.Log_in.resources
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.home.resources
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.ProjectTask.resources
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.Properties.Resources.resources
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.Setting.resources
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.sharedTasks.resources
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.SignUp.resources
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.TaskPage.resources
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.update.resources
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c#project.exe
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c#project.pdb
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\bin\Debug\c#project.exe.config
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\bin\Debug\c#project.exe
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\bin\Debug\c#project.pdb
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\bin\Debug\LiveCharts.dll
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\bin\Debug\LiveCharts.pdb
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\bin\Debug\LiveCharts.xml
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Admin\Downloads\c#pf\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.CopyComplete
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\c#project.exe.config
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\c#project.exe
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\c#project.pdb
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\EntityFramework.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\LiveCharts.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\System.Buffers.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\System.Memory.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\EntityFramework.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\LiveCharts.pdb
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\LiveCharts.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\System.Buffers.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\System.Memory.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.AssemblyReference.cache
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.DashBoard.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.Log_in.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.home.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.ProjectTask.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.Properties.Resources.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.Setting.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.sharedTasks.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.SignUp.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.TaskPage.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.update.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.GenerateResource.cache
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.CoreCompileInputs.cache
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c_project.csproj.CopyComplete
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c#project.exe
+C:\Users\ALTHOURAYA\OneDrive\Desktop\ppppppp\c#pffff\c#project-3\c#project-3\c#project\c#project\obj\Debug\c#project.pdb
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.csproj.AssemblyReference.cache
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c#project.exe
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c#project.pdb
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.DashBoard.resources
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.Log_in.resources
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.home.resources
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.ProjectTask.resources
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.Properties.Resources.resources
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.Setting.resources
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.sharedTasks.resources
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.SignUp.resources
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.TaskPage.resources
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.update.resources
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.csproj.GenerateResource.cache
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.csproj.CoreCompileInputs.cache
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\c#project.exe.config
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\c#project.exe
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\c#project.pdb
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\BCrypt.Net-Next.dll
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\EntityFramework.dll
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\EntityFramework.SqlServer.dll
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\LiveCharts.dll
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\LiveCharts.Wpf.dll
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\System.Buffers.dll
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\System.Memory.dll
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\System.Numerics.Vectors.dll
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\BCrypt.Net-Next.xml
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\EntityFramework.xml
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\EntityFramework.SqlServer.xml
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\LiveCharts.pdb
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\LiveCharts.xml
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\LiveCharts.Wpf.pdb
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\LiveCharts.Wpf.xml
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\System.Buffers.xml
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\System.Memory.xml
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\System.Numerics.Vectors.xml
+D:\CS3 Material\C#\final project\TaskManager\c#project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CS3 Material\C#\final project\TaskManager\c#project\obj\Debug\c_project.csproj.CopyComplete
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\c#project.exe.config
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\c#project.exe
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\c#project.pdb
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\EntityFramework.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\LiveCharts.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\System.Buffers.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\System.Memory.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\EntityFramework.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\LiveCharts.pdb
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\LiveCharts.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\System.Buffers.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\System.Memory.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.csproj.AssemblyReference.cache
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.DashBoard.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.Log_in.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.home.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.ProjectTask.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.Properties.Resources.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.Setting.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.sharedTasks.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.SignUp.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.TaskPage.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.update.resources
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.csproj.GenerateResource.cache
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.csproj.CoreCompileInputs.cache
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c_project.csproj.CopyComplete
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c#project.exe
+C:\Users\ALTHOURAYA\OneDrive\Desktop\final project\TaskManager\c#project\obj\Debug\c#project.pdb
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\c#project.exe.config
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\c#project.exe
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\c#project.pdb
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\BCrypt.Net-Next.dll
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\EntityFramework.dll
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\LiveCharts.dll
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\LiveCharts.Wpf.dll
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\System.Buffers.dll
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\System.Memory.dll
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\System.Numerics.Vectors.dll
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\BCrypt.Net-Next.xml
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\EntityFramework.xml
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\LiveCharts.pdb
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\LiveCharts.xml
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\LiveCharts.Wpf.pdb
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\LiveCharts.Wpf.xml
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\System.Buffers.xml
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\System.Memory.xml
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\System.Numerics.Vectors.xml
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.csproj.AssemblyReference.cache
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.DashBoard.resources
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.Log_in.resources
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.home.resources
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.ProjectTask.resources
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.Properties.Resources.resources
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.Setting.resources
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.sharedTasks.resources
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.SignUp.resources
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.TaskPage.resources
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.update.resources
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.csproj.GenerateResource.cache
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.csproj.CoreCompileInputs.cache
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c_project.csproj.CopyComplete
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c#project.exe
+D:\C#_Project\C#_Project_final_Version\TaskManager\c#project\obj\Debug\c#project.pdb

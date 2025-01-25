@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ctrltaskModelStoreContainer" CdmEntityContainer="ctrltaskEntities">
+    <EntitySetMapping Name="projects">
+      <EntityTypeMapping TypeName="ctrltaskModel.project">
+        <MappingFragment StoreEntitySet="project">
+          <ScalarProperty Name="p_id" ColumnName="p_id" />
+          <ScalarProperty Name="p_name" ColumnName="p_name" />
+          <ScalarProperty Name="number_of_tasks" ColumnName="number_of_tasks" />
+          <ScalarProperty Name="p_done" ColumnName="p_done" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tasks">
+      <EntityTypeMapping TypeName="ctrltaskModel.task">
+        <MappingFragment StoreEntitySet="task">
+          <ScalarProperty Name="t_id" ColumnName="t_id" />
+          <ScalarProperty Name="p_id" ColumnName="p_id" />
+          <ScalarProperty Name="t_name" ColumnName="t_name" />
+          <ScalarProperty Name="content" ColumnName="content" />
+          <ScalarProperty Name="date_time_created" ColumnName="date_time_created" />
+          <ScalarProperty Name="date_time_finish" ColumnName="date_time_finish" />
+          <ScalarProperty Name="t_status" ColumnName="t_status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="userdatas">
+      <EntityTypeMapping TypeName="ctrltaskModel.userdata">
+        <MappingFragment StoreEntitySet="userdata">
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="u_id" ColumnName="u_id" />
+          <ScalarProperty Name="u_name" ColumnName="u_name" />
+          <ScalarProperty Name="u_email" ColumnName="u_email" />
+          <ScalarProperty Name="u_password" ColumnName="u_password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="bridge_task_userdata" TypeName="ctrltaskModel.bridge_task_userdata" StoreEntitySet="bridge_task_userdata">
+      <EndProperty Name="task">
+        <ScalarProperty Name="t_id" ColumnName="t_id" />
+      </EndProperty>
+      <EndProperty Name="userdata">
+        <ScalarProperty Name="u_id" ColumnName="u_id" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

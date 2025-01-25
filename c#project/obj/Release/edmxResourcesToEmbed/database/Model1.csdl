@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Data" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="project">
+    <Key>
+      <PropertyRef Name="p_id" />
+    </Key>
+    <Property Name="p_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="p_name" Type="String" MaxLength="35" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="number_of_tasks" Type="Int32" />
+    <Property Name="p_done" Type="Int32" />
+    <NavigationProperty Name="tasks" Relationship="Self.FK__task__p_id__412EB0B6" FromRole="project" ToRole="task" />
+    <NavigationProperty Name="userdatas" Relationship="Self.bridge_project_userdata" FromRole="project" ToRole="userdata" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="task">
+    <Key>
+      <PropertyRef Name="t_id" />
+    </Key>
+    <Property Name="t_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="p_id" Type="Int32" Nullable="false" />
+    <Property Name="t_name" Type="String" MaxLength="35" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="content" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="date_time_created" Type="DateTime" Precision="3" />
+    <Property Name="date_time_finish" Type="DateTime" Precision="3" />
+    <Property Name="t_status" Type="Int32" />
+    <NavigationProperty Name="project" Relationship="Self.FK__task__p_id__412EB0B6" FromRole="task" ToRole="project" />
+    <NavigationProperty Name="userdatas" Relationship="Self.bridge_task_userdata" FromRole="task" ToRole="userdata" />
+  </EntityType>
+  <EntityType Name="userdata">
+    <Key>
+      <PropertyRef Name="u_id" />
+    </Key>
+    <Property Name="u_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="u_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="u_email" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="u_password" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="img" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="projects" Relationship="Self.bridge_project_userdata" FromRole="userdata" ToRole="project" />
+    <NavigationProperty Name="tasks" Relationship="Self.bridge_task_userdata" FromRole="userdata" ToRole="task" />
+  </EntityType>
+  <Association Name="FK__task__p_id__412EB0B6">
+    <End Role="project" Type="Self.project" Multiplicity="1" />
+    <End Role="task" Type="Self.task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="project">
+        <PropertyRef Name="p_id" />
+      </Principal>
+      <Dependent Role="task">
+        <PropertyRef Name="p_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="bridge_project_userdata">
+    <End Role="project" Type="Self.project" Multiplicity="*" />
+    <End Role="userdata" Type="Self.userdata" Multiplicity="*" />
+  </Association>
+  <Association Name="bridge_task_userdata">
+    <End Role="task" Type="Self.task" Multiplicity="*" />
+    <End Role="userdata" Type="Self.userdata" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="Database" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="projects" EntityType="Self.project" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="tasks" EntityType="Self.task" />
+    <EntitySet Name="userdatas" EntityType="Self.userdata" />
+    <AssociationSet Name="FK__task__p_id__412EB0B6" Association="Self.FK__task__p_id__412EB0B6">
+      <End Role="project" EntitySet="projects" />
+      <End Role="task" EntitySet="tasks" />
+    </AssociationSet>
+    <AssociationSet Name="bridge_project_userdata" Association="Self.bridge_project_userdata">
+      <End Role="project" EntitySet="projects" />
+      <End Role="userdata" EntitySet="userdatas" />
+    </AssociationSet>
+    <AssociationSet Name="bridge_task_userdata" Association="Self.bridge_task_userdata">
+      <End Role="task" EntitySet="tasks" />
+      <End Role="userdata" EntitySet="userdatas" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

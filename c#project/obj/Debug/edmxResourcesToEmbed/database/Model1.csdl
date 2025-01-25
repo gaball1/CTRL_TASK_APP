@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ctrltaskModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="bridge_task_userdata">
+    <Key>
+      <PropertyRef Name="u_id" />
+      <PropertyRef Name="t_id" />
+    </Key>
+    <Property Name="u_id" Type="Int32" Nullable="false" />
+    <Property Name="t_id" Type="Int32" Nullable="false" />
+    <Property Name="collbration_date" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="task" Relationship="Self.FK__bridge_tas__t_id__46E78A0C" FromRole="bridge_task_userdata" ToRole="task" />
+    <NavigationProperty Name="userdata" Relationship="Self.FK__bridge_tas__u_id__45F365D3" FromRole="bridge_task_userdata" ToRole="userdata" />
+  </EntityType>
+  <EntityType Name="project">
+    <Key>
+      <PropertyRef Name="p_id" />
+    </Key>
+    <Property Name="p_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="u_id" Type="Int32" Nullable="false" />
+    <Property Name="p_name" Type="String" MaxLength="35" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="number_of_tasks" Type="Int32" />
+    <NavigationProperty Name="userdata" Relationship="Self.FK__project__u_id__3B75D760" FromRole="project" ToRole="userdata" />
+    <NavigationProperty Name="task" Relationship="Self.FK__task__p_id__4316F928" FromRole="project" ToRole="task" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="task">
+    <Key>
+      <PropertyRef Name="t_id" />
+    </Key>
+    <Property Name="t_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="p_id" Type="Int32" Nullable="false" />
+    <Property Name="t_name" Type="String" MaxLength="35" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="content" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="date_time_created" Type="DateTime" Precision="3" />
+    <Property Name="date_time_finish" Type="DateTime" Precision="3" />
+    <Property Name="t_status" Type="Int32" />
+    <Property Name="t_done" Type="Boolean" />
+    <NavigationProperty Name="bridge_task_userdata" Relationship="Self.FK__bridge_tas__t_id__46E78A0C" FromRole="task" ToRole="bridge_task_userdata" />
+    <NavigationProperty Name="project" Relationship="Self.FK__task__p_id__4316F928" FromRole="task" ToRole="project" />
+    <Property Name="t_img" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="userdata">
+    <Key>
+      <PropertyRef Name="u_id" />
+    </Key>
+    <Property Name="u_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="u_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="u_email" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="u_password" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="img" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="bridge_task_userdata" Relationship="Self.FK__bridge_tas__u_id__45F365D3" FromRole="userdata" ToRole="bridge_task_userdata" />
+    <NavigationProperty Name="project" Relationship="Self.FK__project__u_id__3B75D760" FromRole="userdata" ToRole="project" />
+  </EntityType>
+  <Association Name="FK__bridge_tas__t_id__46E78A0C">
+    <End Role="task" Type="Self.task" Multiplicity="1" />
+    <End Role="bridge_task_userdata" Type="Self.bridge_task_userdata" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="task">
+        <PropertyRef Name="t_id" />
+      </Principal>
+      <Dependent Role="bridge_task_userdata">
+        <PropertyRef Name="t_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__bridge_tas__u_id__45F365D3">
+    <End Role="userdata" Type="Self.userdata" Multiplicity="1" />
+    <End Role="bridge_task_userdata" Type="Self.bridge_task_userdata" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="userdata">
+        <PropertyRef Name="u_id" />
+      </Principal>
+      <Dependent Role="bridge_task_userdata">
+        <PropertyRef Name="u_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__project__u_id__3B75D760">
+    <End Role="userdata" Type="Self.userdata" Multiplicity="1" />
+    <End Role="project" Type="Self.project" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="userdata">
+        <PropertyRef Name="u_id" />
+      </Principal>
+      <Dependent Role="project">
+        <PropertyRef Name="u_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__task__p_id__4316F928">
+    <End Role="project" Type="Self.project" Multiplicity="1" />
+    <End Role="task" Type="Self.task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="project">
+        <PropertyRef Name="p_id" />
+      </Principal>
+      <Dependent Role="task">
+        <PropertyRef Name="p_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Data" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="bridge_task_userdata" EntityType="Self.bridge_task_userdata" />
+    <EntitySet Name="project" EntityType="Self.project" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="task" EntityType="Self.task" />
+    <EntitySet Name="userdata" EntityType="Self.userdata" />
+    <AssociationSet Name="FK__bridge_tas__t_id__46E78A0C" Association="Self.FK__bridge_tas__t_id__46E78A0C">
+      <End Role="task" EntitySet="task" />
+      <End Role="bridge_task_userdata" EntitySet="bridge_task_userdata" />
+    </AssociationSet>
+    <AssociationSet Name="FK__bridge_tas__u_id__45F365D3" Association="Self.FK__bridge_tas__u_id__45F365D3">
+      <End Role="userdata" EntitySet="userdata" />
+      <End Role="bridge_task_userdata" EntitySet="bridge_task_userdata" />
+    </AssociationSet>
+    <AssociationSet Name="FK__project__u_id__3B75D760" Association="Self.FK__project__u_id__3B75D760">
+      <End Role="userdata" EntitySet="userdata" />
+      <End Role="project" EntitySet="project" />
+    </AssociationSet>
+    <AssociationSet Name="FK__task__p_id__4316F928" Association="Self.FK__task__p_id__4316F928">
+      <End Role="project" EntitySet="project" />
+      <End Role="task" EntitySet="task" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(ctrltaskModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(ctrltaskModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+  </EntityContainer>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

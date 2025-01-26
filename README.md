@@ -28,7 +28,7 @@
 
 1. Clone the repository:  
     ```bash
-    git clone https://github.com/YourUsername/CtrlTask.git
+    git clone https://github.com/gaball1/CTRL_TASK_APP.git
     ```
 2. Open the project in Visual Studio.  
 
